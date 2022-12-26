@@ -5,7 +5,7 @@ import Icons from "../assets"
 function Header() {
     
   return (
-    <div className='py-6 px-2 bg-black w-64 h-full'>
+    <div className='py-6 px-2 bg-black w-72 h-full'>
         <div className='px-2 mb-5'>
             <img className='h-10 w-36' src={Logo} alt="spotify"/>
         </div>
